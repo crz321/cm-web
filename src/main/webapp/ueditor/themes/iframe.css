@@ -1,0 +1,10 @@
+/*可以在这里添加你自己的css*/
+.edui-editor-iframeholder.edui-default {
+  width: 100%;
+}
+
+body.view {
+  font-size: 12px !important;
+  font-family: "Microsoft YaHei" !important;
+  color: #666 !important;
+}

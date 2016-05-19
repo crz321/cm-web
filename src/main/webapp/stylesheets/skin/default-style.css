@@ -1,0 +1,58 @@
+/* line 2, ../../sass/settings/_skin-toggle.scss */
+#sidebar {
+  background-color: #3b4966;
+}
+/* line 6, ../../sass/settings/_skin-toggle.scss */
+#sidebar ul a:visited, #sidebar ul a:hover {
+  background-color: #3f556c;
+}
+/* line 12, ../../sass/settings/_skin-toggle.scss */
+#sidebar .current {
+  background-color: #323e57;
+}
+/* line 16, ../../sass/settings/_skin-toggle.scss */
+#sidebar .active-item {
+  background-color: #3f556c;
+}
+
+/* line 24, ../../sass/settings/_skin-toggle.scss */
+#language-torggle button {
+  border: 1px solid #fff;
+  color: #fff;
+}
+/* line 29, ../../sass/settings/_skin-toggle.scss */
+#language-torggle .current-language {
+  background-color: #fff !important;
+  color: #3b4966 !important;
+}
+
+/* line 37, ../../sass/settings/_skin-toggle.scss */
+html,
+body,
+#footer {
+  background-color: #fff;
+}
+
+/* line 44, ../../sass/settings/_skin-toggle.scss */
+.events-table-container #event-table-options {
+  background-color: #eaedf2;
+  text-align: left;
+  padding: 0 20px;
+}
+/* line 50, ../../sass/settings/_skin-toggle.scss */
+.events-table-container th {
+  background-color: #5faee3;
+}
+/* line 55, ../../sass/settings/_skin-toggle.scss */
+.events-table-container tr td:nth-of-type(2) {
+  color: #000;
+}
+/* line 60, ../../sass/settings/_skin-toggle.scss */
+.events-table-container #table-page {
+  background: #eaedf2;
+}
+
+/* line 9, ../../sass/skin/default-style.scss */
+.container {
+  font-size: 12px !important;
+}

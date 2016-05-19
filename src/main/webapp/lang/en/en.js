@@ -1,0 +1,82 @@
+I18N['en'] = {
+	"labelMap": {
+		"secondary-sidebar": {
+			"all-account": "All Accounts",
+			"reserve-meeting-room":"Reserve Meeting Room",
+			"request-a-review-meeting":"Request A Review Meeting",
+			"registration-management": "Registration Management",
+			"event-user": "Event User",
+			"badge-printing": "Badge Printing",
+			"event-ticket": "Event Ticket",
+			"gallery": "Gallery",
+			"campaign": "Campaign",
+			"all-messages": "All Message",
+			"all-notifications": "All Notification",
+			"short-messages": "Short Message",
+			"all-emails": "All Email",
+			"all-survey": "All Survey",
+			"all-vote": "All Vote",
+			"all-contacts": "All Contacts",
+			"all-examine-contacts": "All Examine Contacts",
+			"user-group": "User Group",
+			"menu-design": "Menu Designer",
+			"roles": "Roles",
+			"profiles": "Profiles",
+			"all-users": "All Users",
+			"all-program": "All Program",
+			"sponsors": "Sponsors",
+			"activity-feed": "Activity Feed"
+		},
+		"sidebar": {
+			"home-page": "HOME PAGE",
+			"account": "ACCOUNTS",
+			"notification & registration": "NOTIFICATION & REGISTRATION",
+			"meeting-organization": "Meeting Organization",
+			"meeting-room": "会议室",
+			"query-statistics": "Query Statistics",
+			"customization": "CUSTOMIZATION",
+			"system-management": "System Management",
+			"employee-management": "EMPLOYEE MANAGEMENT",
+			"program": "PROGRAM",
+			"sponsors-exhibitors": "SPONSORS & EXHIBITORS",
+			"reports": "REPORTS"
+		},
+		"header": {
+			"current-position": "Current Position",
+			"logout": "Logout",
+			"my-meetings": "My Meetings",
+			"hello-username": "Hello, Jack Doulson"
+		},
+		"flow-chart": {
+			"create-events": "Create Events",
+			"create-templates": "Create Templates",
+			"match-templates": "Match Templates",
+			"agenda": "Agenda",
+			"speakers": "Speakers",
+			"venue": "Venue",
+			"survey-vote": "Survey & Vote",
+			"push-messages": "Push Messages",
+			"sponsors-exhibitors": "Sponsors & Exhibitors",
+			"publish-program": "Program",
+			"gallery": "Gallery",
+			"documents": "Documents"
+		},
+		"meeting-info": {
+			"recent-meetings-details": "Meetings Details",
+			"conference-agenda": "Conference Agenda",
+			"meeting-statu":"meeting-statu",
+			"entries-number": "Entries Number",
+			"conference-room-location": "Conference Room Location",
+			"start-date-time": "Start Date Time",
+			"end-date-time": "End Date Time",
+			"contact-organizer": "Contact Organizer",
+			"my-meetings": "My Meetings",
+			"more": "More",
+			"my-application": "My Application",
+			"my-apps": "My Apps",
+			"address": "Address",
+			"approving": "Approving",
+			"time": "Time"
+		}
+	}
+}

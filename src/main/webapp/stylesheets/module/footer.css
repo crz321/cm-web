@@ -1,0 +1,29 @@
+/* line 3, ../../sass/module/footer.scss */
+.footer {
+  background-color: #eee;
+  z-index: 10;
+  border-top: 1px solid #cfcfcf;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Microsoft YaHei";
+  color: #7d7d7d;
+  line-height: 18px;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 22, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scss */
+.footer:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  clear: both;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+/* line 19, ../../sass/module/footer.scss */
+span#copyright {
+  display: inline-block;
+  padding: 2px;
+  height: 90%;
+}
